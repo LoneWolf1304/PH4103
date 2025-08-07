@@ -1,0 +1,8 @@
+Compare Zeeman splitting and temperature something something..... k_BT
+
+- Zeeman Splittling Due to magnetic field.
+- Alternating Field to produce the steady state of electrons in upper and lower level.
+- At resonance large no of electron in upper state and lower state, so easy to visualize.
+
+-why metals not used in ESR? 
+see deepseek chat history (07-08-25)
